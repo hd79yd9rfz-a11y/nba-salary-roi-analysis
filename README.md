@@ -27,7 +27,7 @@
 4. The notebook generates a local sample dataset automatically; no external data download is required.
 
 ## 6. Product link / Demo
-🎥 Demo Video: [Your 1–3 minute video link here]
+🎥 Demo Video: [https://www.bilibili.com/video/BV1RqQ4BYE9L/?share_source=copy_web&vd_source=6dd7dc83d2c73090c911e6243c3a7663]
 
 ## 7. Limitations & next steps
 - Limitations: Analysis uses only Points Per Game (PPG), which does not reflect defensive contribution, playmaking (assists/rebounds), leadership, or off-court commercial value.
