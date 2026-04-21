@@ -5,6 +5,7 @@
 
 ## 2. Data
 - Source: Simulated dataset based on real 2023–2024 NBA regular season statistics (consistent with standard ESPN and Kaggle datasets).
+- Data Link: https://www.basketball-reference.com/contracts/players.html
 - Access Date: April 2024
 - Key Fields: Player Name, Points Per Game (PPG), Salary (raw string with currency symbols)
 
@@ -27,7 +28,7 @@
 4. The notebook generates a local sample dataset automatically; no external data download is required.
 
 ## 6. Product link / Demo
-🎥 Demo Video: [https://www.bilibili.com/video/BV1RqQ4BYE9L/?share_source=copy_web&vd_source=6dd7dc83d2c73090c911e6243c3a7663]
+🎥 Demo Video: [https://video.xjtlu.edu.cn/Mediasite/Play/62bfa381cfac4ff8ad237269b5a23d6b1d]
 
 ## 7. Limitations & next steps
 - Limitations: Analysis uses only Points Per Game (PPG), which does not reflect defensive contribution, playmaking (assists/rebounds), leadership, or off-court commercial value.
